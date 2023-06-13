@@ -150,8 +150,8 @@ export const posts = [
     lastName: 'Balogun',
     location: 'New York, CA',
     description: 'Having a great time in New York',
-    picturePath: 'p23.jpeg',
-    userPicturePath: 'p24.jpeg',
+    picturePath: 'post2.jpeg',
+    userPicturePath: 'p2.jpeg',
     likes: new Map([
       [userIds[0], true],
       [userIds[2], true],
